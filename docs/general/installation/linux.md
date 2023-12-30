@@ -314,7 +314,7 @@ The rest of these instructions assume version 10.8.9 is being installed (i.e. `j
 Download the generic build, then extract the archive:
 
 ```sh
-sudo wget https://repo.jellyfin.org/releases/server/linux/stable/combined/jellyfin_10.8.9_amd64.tar.gz
+sudo wget https://repo.jellyfin.org/releases/server/linux/stable/combined/jellyfin_10.8.13_amd64.tar.gz
 sudo tar xvzf jellyfin_10.8.9_amd64.tar.gz
 ```
 
